@@ -12,7 +12,7 @@ This repository was used throughout the whole work presented in the paper so it 
 
 - **data**: Contains files used for loading data during training and testing, corresponding to different datasets.
 
-- **saved_model**: Contains the weight files saved during training.
+- **saved_models**: Contains the weight files saved during training.
 
 Please note that you need to check the paths in the above scripts and change them to your own paths.
 
