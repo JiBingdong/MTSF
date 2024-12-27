@@ -26,16 +26,16 @@ In order to be able to clearly demonstrate the contribution of our proposed MTSF
 ![image](https://user-images.githubusercontent.com/68813286/226501296-7b7f3a1c-36f3-41be-96e3-4c5404db832d.png)
 
 # Citation
-If you find this work useful for your research, please cite our paper:
-@ARTICLE{10803899,
-  author={Jin, Lisheng and Ji, Bingdong and Guo, Baicang and Wang, Huanhuan and Han, Zhuotong and Liu, Xingchen},
-  journal={IEEE Transactions on Intelligent Transportation Systems}, 
-  title={MTSF: Multi-Scale Temporal–Spatial Fusion Network for Driver Attention Prediction}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-16},
-  keywords={Feature extraction;Vehicles;Three-dimensional displays;Predictive models;Convolution;Long short term memory;Data mining;Solid modeling;Attention mechanisms;Vehicle dynamics;Driver attention prediction;saliency prediction;temporal-spatial fusion;3D convolution;attention mechanism},
+If you find this work useful for your research, please cite our paper:  
+@ARTICLE{10803899,  
+  author={Jin, Lisheng and Ji, Bingdong and Guo, Baicang and Wang, Huanhuan and Han, Zhuotong and Liu, Xingchen},  
+  journal={IEEE Transactions on Intelligent Transportation Systems},   
+  title={MTSF: Multi-Scale Temporal–Spatial Fusion Network for Driver Attention Prediction},   
+  year={2024},  
+  volume={},  
+  number={},  
+  pages={1-16},  
+  keywords={Feature extraction;Vehicles;Three-dimensional displays;Predictive models;Convolution;Long short term memory;Data mining;Solid modeling;Attention mechanisms;Vehicle dynamics;Driver attention prediction;saliency prediction;temporal-spatial fusion;3D convolution;attention mechanism},  
   doi={10.1109/TITS.2024.3510116}}
 
 
