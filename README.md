@@ -21,6 +21,9 @@ All Python code has been developed and tested with Pytorch.
 ## Pre-trained weights:
 Pre-trained weights of the MTSF model can be downloaded from this link(链接: https://pan.baidu.com/s/1EXLK_GemaG0h36A9VncELw 提取码: b8ny).
 
+## The annotation of the DR(eye)VE dataset
+The fixation point map of the DR(eye)VE dataset can be downloaded from this link(链接: https://pan.baidu.com/s/10EqzNeViJSlONScsKy3TeQ 提取码: jbc6).
+
 # Vidoe Demo
 In order to be able to clearly demonstrate the contribution of our proposed MTSF, we made a video demo, you can find it from [here](https://www.bilibili.com/video/BV1cx4y1N7Vq/?spm_id_from=333.999.0.0&vd_source=52c141951b0d1bd188be6c941f796841).
 ![image](https://user-images.githubusercontent.com/68813286/226501296-7b7f3a1c-36f3-41be-96e3-4c5404db832d.png)
